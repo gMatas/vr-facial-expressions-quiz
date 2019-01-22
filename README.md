@@ -1,4 +1,5 @@
-# Virtual Reality Modeling project
+# Virtual Reality Modeling project (part 2)
+
 Quiz type game with facial expressions as the interface made with Unity game engine.
 
 This is the second part of a project "vr-facial-expressions" for the Virtual Reality Modeling module at Kaunas University of Technology.
