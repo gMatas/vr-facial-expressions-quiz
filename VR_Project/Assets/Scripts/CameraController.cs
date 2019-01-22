@@ -17,6 +17,8 @@ public class CameraController : MonoBehaviour
     {
         devices = WebCamTexture.devices;
 
+        CameraImage.enabled = true;
+
         if (devices.Length == 0)
         {
             Debug.Log("No camera devices found :(");
